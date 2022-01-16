@@ -1,6 +1,11 @@
 # Ma Memories(Full-Stack App)
 Memories Manager Applciation, where Users can add, delete, update and like and comment memories, and View each other's memories !!
 
+Link 🔗 https://ma-memories.web.app
+
+Backend Deployed at: 🔗 https://ma-memory.herokuapp.com
+
+
 Run Locally
 Run this command git clone https://github.com/muzi-official/ma-memories-app.git
 You are now in the dev environment and you can play around
