@@ -1,5 +1,5 @@
 # Ma Memories(Full-Stack App)
-Memories Manager Applciation, where Users can add, delete, update and like and comment memories, and View each other's memories !!
+MA Memories Applciation, where Users can add, delete, update and like and comment memories, and View each other's memories !!
 
 Link 🔗 https://ma-memory.web.app
 
