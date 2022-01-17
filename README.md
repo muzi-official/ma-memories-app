@@ -1,7 +1,7 @@
 # Ma Memories(Full-Stack App)
 Memories Manager Applciation, where Users can add, delete, update and like and comment memories, and View each other's memories !!
 
-Link 🔗 https://ma-memories.web.app
+Link 🔗 https://ma-memory.web.app
 
 Backend Deployed at: 🔗 https://ma-memory.herokuapp.com
 
